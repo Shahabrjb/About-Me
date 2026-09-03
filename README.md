@@ -58,19 +58,19 @@ The research goal is not simply to detect unusual sectors, but to identify the a
 
 Published in **Applied Soft Computing (Elsevier), 2022**. The work proposes a two-stage deep-learning framework in which the first stage adaptively learns an effective historical window size and the second stage performs forecasting.
 
-[Repository](../MLP-based-Learnable-Window-Size-for-Bitcoin-Price-Prediction)  
+[Repository](https://github.com/Shahabrjb/MLP-based-Learnable-Window-Size-for-Bitcoin-Price-Prediction)
 
 ### Persian Sign Language Detection Based on Normalized Depth Image Information
 
 Research on depth-image normalization, feature extraction, and classification for Persian Sign Language recognition using Kinect depth information, MLP, and SVM-based classification.
 
-[Repository](../Persian-sign-language-detection-based-on-normalized-depth-image-information)
+[Repository](https://github.com/Shahabrjb/Persian-sign-language-detection-based-on-normalized-depth-image-information)
 
 ### Adaptive Time-Series Forecasting
 
 A reproducible Python project demonstrating time-series preprocessing, supervised window generation, neural-network forecasting, and regression-based evaluation.
 
-[Repository](../adaptive-time-series-forecasting)
+[Repository](https://github.com/Shahabrjb/adaptive-time-series-forecasting)
 
 ## Professional Background
 
